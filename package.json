@@ -1,0 +1,26 @@
+{
+  "name": "revstudio",
+  "version": "1.0.0",
+  "description": "An intuitive portal that has collected several different topics such as: news, music, movies, games, as well as their subcategories. With the help of the search engine, people will be able to find the information they need.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReVChiK/ReVStudio.git"
+  },
+  "keywords": [
+    "developing",
+    "frontend",
+    "javascript",
+    "webpack",
+    "node"
+  ],
+  "author": "ReV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReVChiK/ReVStudio/issues"
+  },
+  "homepage": "https://github.com/ReVChiK/ReVStudio#readme"
+}
